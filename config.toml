@@ -1,0 +1,33 @@
+baseURL = 'http://sites.robigan.com/'
+languageCode = 'en-us'
+title = "Robigan's Sitelist"
+theme = "lynx"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+  name = "Robigan's Sitelist"
+  headline = "A collection of sites I find useful and interesting that others may like"
+  image = "pfp.png"
+  links = [
+    { link = { href = "https://robigan.com", text = "Homepage" } },
+    { flightradar24 = "https://flightradar24.com" },
+    { farside = "https://farside.link/" },
+    { bibliogram = "https://bibliogram.art" },
+    { invidious ="https://invidious.snopyta.org" },
+    { libreddit = "https://libredd.it" },
+    { lingva = "https://lingva.ml" },
+    { nitter = "https://nitter.it" },
+    { proxitok = "https://proxitok.herokuapp.com" },
+    { imagecolorpicker = "https://imagecolorpicker.com" },
+    { convertio = "https://convertio.co" },
+    { archivedotorg = "https://archive.org"}
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true

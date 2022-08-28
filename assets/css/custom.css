@@ -1,0 +1,47 @@
+:root {
+    --black-text: rgb(17 24 39 / 1);
+    --white-text: rgb(255, 255, 255);
+}
+
+.link-flightradar24 {
+    background-color: #0a0a0a;
+}
+
+.link-farside {
+    background-color: #66397C;
+}
+
+.link-bibliogram {
+    background-color: #d63f44;
+}
+
+.link-invidious {
+    background-color: rgb(243 244 246 / 1);
+    color: var(--black-text);
+}
+
+.link-libreddit {
+    background-color: #1be1e1;
+    color: var(--black-text);
+}
+
+.link-lingva {
+    background-color: #bde3cb;
+    color: var(--black-text);
+}
+
+.link-nitter {
+    background-color: #fd6e61;
+}
+
+.link-proxitok {
+    background-color: #548;
+}
+
+.link-convertio {
+    background-color: #ff434d;
+}
+
+.link-archivedotorg {
+    background-color: #0a0a0a;
+}
