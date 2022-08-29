@@ -22,7 +22,10 @@ disableKinds = ["taxonomy", "term"]
     { proxitok = "https://proxitok.herokuapp.com" },
     { imagecolorpicker = "https://imagecolorpicker.com" },
     { convertio = "https://convertio.co" },
-    { archivedotorg = "https://archive.org"}
+    { archivedotorg = "https://archive.org"},
+    { autodraw = "https://autodraw.com" },
+    { mastodon = "https://mastodon.social/" },
+    { keybase = "https://keybase.io/" }
   ]
 
 [markup.highlight]

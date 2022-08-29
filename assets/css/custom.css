@@ -8,7 +8,7 @@
 }
 
 .link-farside {
-    background-color: #66397C;
+    background-color: #548;
 }
 
 .link-bibliogram {
@@ -16,22 +16,21 @@
 }
 
 .link-invidious {
-    background-color: rgb(243 244 246 / 1);
-    color: var(--black-text);
+    background-color: red;
 }
 
 .link-libreddit {
-    background-color: #1be1e1;
-    color: var(--black-text);
+    background-color: #ff4500;
+    /* color: var(--black-text); */
 }
 
 .link-lingva {
-    background-color: #bde3cb;
-    color: var(--black-text);
+    background-color: #00ab6c;
+    /* color: var(--black-text); */
 }
 
 .link-nitter {
-    background-color: #fd6e61;
+    background-color: #3f88de;
 }
 
 .link-proxitok {
@@ -44,4 +43,8 @@
 
 .link-archivedotorg {
     background-color: #0a0a0a;
+}
+
+.link-autodraw {
+    background-color: #00ab6c;
 }
