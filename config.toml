@@ -25,7 +25,9 @@ disableKinds = ["taxonomy", "term"]
     { archivedotorg = "https://archive.org"},
     { autodraw = "https://autodraw.com" },
     { mastodon = "https://mastodon.social/" },
-    { keybase = "https://keybase.io/" }
+    { keybase = "https://keybase.io/" },
+    { unscreen = "" },
+    { removebg = "" },
   ]
 
 [markup.highlight]

@@ -20,7 +20,7 @@
 }
 
 .link-libreddit {
-    background-color: #ff4500;
+    background-color: #08a6f0;
     /* color: var(--black-text); */
 }
 
@@ -30,11 +30,15 @@
 }
 
 .link-nitter {
-    background-color: #3f88de;
+    background-color: #ff4500;
 }
 
 .link-proxitok {
     background-color: #548;
+}
+
+.link-imagecolorpicker {
+    background-color: #d51007;
 }
 
 .link-convertio {
@@ -47,4 +51,12 @@
 
 .link-autodraw {
     background-color: #00ab6c;
+}
+
+.link-unscreen {
+    background-color: #333;
+}
+
+.link-removebg {
+    background-color: #333;
 }
