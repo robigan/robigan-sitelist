@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { link = { href = "https://robigan.com", text = "Homepage" } },
     { flightradar24 = "https://flightradar24.com" },
-    { farside = "https://farside.link/" },
+    { farside = "https://farside.link" },
     { bibliogram = "https://bibliogram.art" },
     { invidious ="https://invidious.snopyta.org" },
     { libreddit = "https://libredd.it" },
@@ -24,10 +24,12 @@ disableKinds = ["taxonomy", "term"]
     { convertio = "https://convertio.co" },
     { archivedotorg = "https://archive.org"},
     { autodraw = "https://autodraw.com" },
-    { mastodon = "https://mastodon.social/" },
-    { keybase = "https://keybase.io/" },
-    { unscreen = "" },
-    { removebg = "" },
+    { mastodon = "https://mastodon.social" },
+    { keybase = "https://keybase.io" },
+    { unscreen = "https://unscreen.com" },
+    { removebg = "https://remove.bg" },
+    { virustotal = "https://virustotal.com "},
+    { justwatch = "https://justwatch.com" }
   ]
 
 [markup.highlight]

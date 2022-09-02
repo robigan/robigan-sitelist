@@ -60,3 +60,13 @@
 .link-removebg {
     background-color: #333;
 }
+
+.link-virustotal {
+    background-color: white;
+    color: #394eff;
+}
+
+.link-justwatch {
+    background-color: black;
+    color: gold;
+}
