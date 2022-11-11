@@ -29,7 +29,12 @@ disableKinds = ["taxonomy", "term"]
     { unscreen = "https://unscreen.com" },
     { removebg = "https://remove.bg" },
     { virustotal = "https://virustotal.com "},
-    { justwatch = "https://justwatch.com" }
+    { justwatch = "https://justwatch.com" },
+    { quillbot = "https://quillbot.com" },
+    { twelvefootladder = "https://12ft.io" },
+    { untools = "https://untools.co" },
+    { otter = "https://otter.ai" },
+    { darebee = "https://darebee.com" }
   ]
 
 [markup.highlight]
