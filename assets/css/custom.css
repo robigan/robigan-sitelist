@@ -151,3 +151,8 @@
 .link-lordicon {
     background-color: #0fa564;
 }
+
+.link-osintframework {
+    background-color: white;
+    color: var(--black-text);
+}

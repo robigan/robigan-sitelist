@@ -43,7 +43,8 @@ disableKinds = ["taxonomy", "term"]
     { calligraphr = "https://calligraphr.com" },
     { wewave = "https://wewave.app" },
     { lumen5 = "https://lumen5.com" },
-    { lordicon = "https://lordicon.com" }
+    { lordicon = "https://lordicon.com" },
+    { osintframework = "https://osintframework.com" }
   ]
 
 [markup.highlight]
