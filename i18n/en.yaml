@@ -3,12 +3,13 @@ link:
   farside: Farside
   bibliogram: Bibliogram
   invidious: Invidious
-  libreddit: LibReddit
+  libreddit: Lib # Reddit part done in css
   lingva: Lingva
   nitter: Nitter
   convertio: Convertio
   imagecolorpicker: Image Color Picker
   proxitok: ProxiTok
+  tempmail: Temp # Mail part done in CSS
   archivedotorg: Archive.org
   autodraw: AutoDraw
   unscreen: unscreen
@@ -18,10 +19,14 @@ link:
   quillbot: QuillBot
   twelvefootladder: 12ft Ladder
   untools: untools
-  otter: otter.ai
+  otter: Otter.ai
   darebee: DAREBEE
   thenounproject: The Noun Project
   openlibrary: Open # The Library part of Open Library is done in CSS
   omnicalculator: Omni Calculator
   manualsnet: Manualsnet
+  calligraphr: calligraphr
+  wewave: WeWave
+  lumen5: lumen5
+  lordicon: lordicon
   

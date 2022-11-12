@@ -20,6 +20,7 @@ disableKinds = ["taxonomy", "term"]
     { lingva = "https://lingva.ml" },
     { nitter = "https://nitter.it" },
     { proxitok = "https://proxitok.herokuapp.com" },
+    { tempmail = "https://temp-mail.org" },
     { imagecolorpicker = "https://imagecolorpicker.com" },
     { convertio = "https://convertio.co" },
     { archivedotorg = "https://archive.org"},
@@ -36,9 +37,13 @@ disableKinds = ["taxonomy", "term"]
     { otter = "https://otter.ai" },
     { darebee = "https://darebee.com" },
     { thenounproject = "https://thenounproject.com" },
-    { openlibrary = "https://openlibrary.org/" },
-    { omnicalculator = "https://www.omnicalculator.com/" },
-    { manualsnet = "https://manualsnet.com/" }
+    { openlibrary = "https://openlibrary.org" },
+    { omnicalculator = "https://www.omnicalculator.com" },
+    { manualsnet = "https://manualsnet.com" },
+    { calligraphr = "https://calligraphr.com" },
+    { wewave = "https://wewave.app" },
+    { lumen5 = "https://lumen5.com" },
+    { lordicon = "https://lordicon.com" }
   ]
 
 [markup.highlight]

@@ -20,8 +20,14 @@
 }
 
 .link-libreddit {
-    background-color: #08a6f0;
+    background-color: #1f1f1f;
     /* color: var(--black-text); */
+}
+
+.link-libreddit::after {
+    content: "Reddit";
+    color: aqua;
+    margin-left: -0.5ex;
 }
 
 .link-lingva {
@@ -35,6 +41,16 @@
 
 .link-proxitok {
     background-color: #548;
+}
+
+.link-tempmail {
+    background-color: #212529;
+}
+
+.link-tempmail::after {
+    content: "Mail";
+    color: rgb(0, 196, 153);
+    margin-left: -0.5ex;
 }
 
 .link-imagecolorpicker {
@@ -84,7 +100,8 @@
 }
 
 .link-otter {
-    background-color: #007aff;
+    background-color: #fff;
+    color: #007aff;
 }
 
 .link-darebee {
@@ -114,4 +131,23 @@
 
 .link-manualsnet {
     background-color: rgb(29, 90, 144);
+}
+
+.link-calligraphr {
+    background-color: #fff;
+    color: rgb(103, 58, 183);
+}
+
+.link-wewave {
+    background-color: #242526;
+    color: rgb(128, 255, 219);
+}
+
+.link-lumen5 {
+    background-color: #fff;
+    color: #5846F6;
+}
+
+.link-lordicon {
+    background-color: #0fa564;
 }
