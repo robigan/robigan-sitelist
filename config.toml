@@ -34,7 +34,11 @@ disableKinds = ["taxonomy", "term"]
     { twelvefootladder = "https://12ft.io" },
     { untools = "https://untools.co" },
     { otter = "https://otter.ai" },
-    { darebee = "https://darebee.com" }
+    { darebee = "https://darebee.com" },
+    { thenounproject = "https://thenounproject.com" },
+    { openlibrary = "https://openlibrary.org/" },
+    { omnicalculator = "https://www.omnicalculator.com/" },
+    { manualsnet = "https://manualsnet.com/" }
   ]
 
 [markup.highlight]

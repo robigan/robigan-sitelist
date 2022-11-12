@@ -90,3 +90,28 @@
 .link-darebee {
     background-color: rgb(241, 6, 50);
 }
+
+.link-thenounproject {
+    background-color: rgb(20, 24, 36);
+}
+
+.link-openlibrary {
+    background-color: #e1dcc5;
+    color: var(--black-text);
+}
+
+.link-openlibrary::after {
+    content: "Library";
+    background-color: rgb(80, 138, 188);
+    padding: 0.2rem;
+    border-radius: 0.5rem;
+    color: var(--white-text);
+}
+
+.link-omnicalculator {
+    background-color: rgb(29, 90, 144);
+}
+
+.link-manualsnet {
+    background-color: rgb(29, 90, 144);
+}
