@@ -20,8 +20,14 @@
 }
 
 .link-libreddit {
-    background-color: #08a6f0;
+    background-color: #1f1f1f;
     /* color: var(--black-text); */
+}
+
+.link-libreddit::after {
+    content: "Reddit";
+    color: aqua;
+    margin-left: -0.5ex;
 }
 
 .link-lingva {
@@ -35,6 +41,16 @@
 
 .link-proxitok {
     background-color: #548;
+}
+
+.link-tempmail {
+    background-color: #212529;
+}
+
+.link-tempmail::after {
+    content: "Mail";
+    color: rgb(0, 196, 153);
+    margin-left: -0.5ex;
 }
 
 .link-imagecolorpicker {
@@ -69,4 +85,74 @@
 .link-justwatch {
     background-color: black;
     color: gold;
+}
+
+.link-quillbot {
+    background-color: #499557;
+}
+
+.link-twelvefootladder {
+    background-color: #404040;
+}
+
+.link-untools {
+    background-color: #0a171c;
+}
+
+.link-otter {
+    background-color: #fff;
+    color: #007aff;
+}
+
+.link-darebee {
+    background-color: rgb(241, 6, 50);
+}
+
+.link-thenounproject {
+    background-color: rgb(20, 24, 36);
+}
+
+.link-openlibrary {
+    background-color: #e1dcc5;
+    color: var(--black-text);
+}
+
+.link-openlibrary::after {
+    content: "Library";
+    background-color: rgb(80, 138, 188);
+    padding: 0.2rem;
+    border-radius: 0.5rem;
+    color: var(--white-text);
+}
+
+.link-omnicalculator {
+    background-color: rgb(29, 90, 144);
+}
+
+.link-manualsnet {
+    background-color: rgb(29, 90, 144);
+}
+
+.link-calligraphr {
+    background-color: #fff;
+    color: rgb(103, 58, 183);
+}
+
+.link-wewave {
+    background-color: #242526;
+    color: rgb(128, 255, 219);
+}
+
+.link-lumen5 {
+    background-color: #fff;
+    color: #5846F6;
+}
+
+.link-lordicon {
+    background-color: #0fa564;
+}
+
+.link-osintframework {
+    background-color: white;
+    color: var(--black-text);
 }
